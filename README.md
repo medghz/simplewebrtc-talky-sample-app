@@ -22,3 +22,4 @@ You can retrieve your API key by visiting [https://accounts.simplewebrtc.com](ht
 4. Copy the contents of the `./dist` folder to your hosting location.
 5. Ensure your hosting location is served via HTTPS.
 
+test
